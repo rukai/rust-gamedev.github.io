@@ -14,9 +14,7 @@
                 <pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate>
                 <link>https://rust-gamedev.github.io/posts/newsletter-010/</link>
                 <guid>https://rust-gamedev.github.io/posts/newsletter-010/</guid>
-                <description>&lt;!-- markdownlint-disable no-trailing-punctuation --&gt;
-&lt;!-- markdownlint-enable line-length --&gt;
-&lt;p&gt;Welcome to the tenth issue of the Rust GameDev Workgroup’s
+                <description>&lt;p&gt;Welcome to the tenth issue of the Rust GameDev Workgroup’s
 monthly newsletter.
 &lt;a href=&quot;https:&#x2F;&#x2F;rust-lang.org&quot;&gt;Rust&lt;&#x2F;a&gt; is a systems language pursuing the trifecta:
 safety, concurrency, and speed.
@@ -816,9 +814,7 @@ or &lt;a href=&quot;https:&#x2F;&#x2F;reddit.com&#x2F;r&#x2F;rust_gamedev&quot;&
                 <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
                 <link>https://rust-gamedev.github.io/posts/newsletter-009/</link>
                 <guid>https://rust-gamedev.github.io/posts/newsletter-009/</guid>
-                <description>&lt;!-- markdownlint-disable no-trailing-punctuation --&gt;
-&lt;!-- markdownlint-enable line-length --&gt;
-&lt;p&gt;Welcome to the ninth issue of the Rust GameDev Workgroup’s
+                <description>&lt;p&gt;Welcome to the ninth issue of the Rust GameDev Workgroup’s
 monthly newsletter.
 &lt;a href=&quot;https:&#x2F;&#x2F;rust-lang.org&quot;&gt;Rust&lt;&#x2F;a&gt; is a systems language pursuing the trifecta:
 safety, concurrency, and speed.
@@ -1650,8 +1646,7 @@ or &lt;a href=&quot;https:&#x2F;&#x2F;reddit.com&#x2F;r&#x2F;rust_gamedev&quot;&
                 <pubDate>Wed, 08 Apr 2020 00:00:00 +0000</pubDate>
                 <link>https://rust-gamedev.github.io/posts/newsletter-008/</link>
                 <guid>https://rust-gamedev.github.io/posts/newsletter-008/</guid>
-                <description>&lt;!-- markdownlint-disable no-trailing-punctuation --&gt;
-&lt;p&gt;Welcome to the eighth issue of the Rust GameDev Workgroup’s
+                <description>&lt;p&gt;Welcome to the eighth issue of the Rust GameDev Workgroup’s
 monthly newsletter.&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;rust-lang.org&quot;&gt;Rust&lt;&#x2F;a&gt; is a systems language pursuing the trifecta:
 safety, concurrency, and speed.
@@ -1781,7 +1776,8 @@ and integration with Tiled map editor.&lt;&#x2F;li&gt;
 an ant colony sandbox game with ASCII graphics.&lt;&#x2F;p&gt;
 &lt;p&gt;This month v0.1.1 and v0.1.2 versions were released. Some of the updates:&lt;&#x2F;p&gt;
 &lt;ul&gt;
-&lt;li&gt;Add color palette options to Settings including a modified palette for red-green color blindness&lt;&#x2F;li&gt;
+&lt;li&gt;Add color palette options to Settings including a modified palette
+for red-green color blindness&lt;&#x2F;li&gt;
 &lt;li&gt;Add lifecycles to more ant castes&lt;&#x2F;li&gt;
 &lt;li&gt;Nurse ants give food to larvae&lt;&#x2F;li&gt;
 &lt;li&gt;Nurse ants on the surface will return to the colony&lt;&#x2F;li&gt;
@@ -1813,7 +1809,8 @@ through the landmass are more smooth.&lt;&#x2F;li&gt;
 &lt;&#x2F;h3&gt;
 &lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;rust-gamedev.github.io&#x2F;posts&#x2F;newsletter-008&#x2F;akigi.png&quot; alt=&quot;game screenshot&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;akigi.com&quot;&gt;Akigi&lt;&#x2F;a&gt; is a multiplayer online world where most believe that humans are inferior.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;akigi.com&quot;&gt;Akigi&lt;&#x2F;a&gt; is a multiplayer online world
+where most believe that humans are inferior.&lt;&#x2F;p&gt;
 &lt;&#x2F;blockquote&gt;
 &lt;p&gt;Some of March&#x27;s updates:&lt;&#x2F;p&gt;
 &lt;ul&gt;
@@ -2074,8 +2071,9 @@ exchange of a secret and connection tokens. At the moment, UDP transport,
 connection management, packet signaling, and packet acknowledgement are
 features already implemented. Examples for getting started are provided
 on the &lt;a href=&quot;https:&#x2F;&#x2F;rust-gamedev.github.io&#x2F;posts&#x2F;newsletter-008&#x2F;netstack&quot;&gt;crates.io page&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
-&lt;p&gt;Version 0.3.0 adds basic monitoring functionality along with traits &lt;code&gt;ClientMonitor&lt;&#x2F;code&gt; and
-&lt;code&gt;ServerMonitor&lt;&#x2F;code&gt;. A work-in-progress prometheus exporter has also been added in this version.&lt;&#x2F;p&gt;
+&lt;p&gt;Version 0.3.0 adds basic monitoring functionality
+along with traits &lt;code&gt;ClientMonitor&lt;&#x2F;code&gt; and &lt;code&gt;ServerMonitor&lt;&#x2F;code&gt;.
+A work-in-progress prometheus exporter has also been added in this version.&lt;&#x2F;p&gt;
 &lt;p&gt;Issues and contributions can be made to &lt;a href=&quot;https:&#x2F;&#x2F;rust-gamedev.github.io&#x2F;posts&#x2F;newsletter-008&#x2F;netstack-github&quot;&gt;Netstack&#x27;s github repository&lt;&#x2F;a&gt;.
 Work in progress documentation is available on &lt;a href=&quot;https:&#x2F;&#x2F;rust-gamedev.github.io&#x2F;posts&#x2F;newsletter-008&#x2F;netstack-docs&quot;&gt;Netstack&#x27;s docs.rs&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;three-d-v0-1&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;asny&#x2F;three-d&quot;&gt;three-d&lt;&#x2F;a&gt; v0.1&amp;nbsp;&lt;a class=&quot;anchor&quot; href=&quot;#three-d-v0-1&quot; aria-hidden=&quot;true&quot;&gt;#&lt;&#x2F;a&gt;
@@ -2278,9 +2276,7 @@ or &lt;a href=&quot;https:&#x2F;&#x2F;reddit.com&#x2F;r&#x2F;rust_gamedev&quot;&
                 <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
                 <link>https://rust-gamedev.github.io/posts/newsletter-007/</link>
                 <guid>https://rust-gamedev.github.io/posts/newsletter-007/</guid>
-                <description>&lt;!-- markdownlint-disable no-trailing-punctuation --&gt;
-&lt;!-- markdownlint-enable line-length --&gt;
-&lt;p&gt;Welcome to the seventh issue of the Rust GameDev Workgroup’s
+                <description>&lt;p&gt;Welcome to the seventh issue of the Rust GameDev Workgroup’s
 monthly newsletter.&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;rust-lang.org&quot;&gt;Rust&lt;&#x2F;a&gt; is a systems language pursuing the trifecta:
 safety, concurrency, and speed.
@@ -3157,8 +3153,7 @@ or &lt;a href=&quot;https:&#x2F;&#x2F;reddit.com&#x2F;r&#x2F;rust_gamedev&quot;&
                 <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
                 <link>https://rust-gamedev.github.io/posts/newsletter-006/</link>
                 <guid>https://rust-gamedev.github.io/posts/newsletter-006/</guid>
-                <description>&lt;!-- markdownlint-disable no-trailing-punctuation --&gt;
-&lt;p&gt;Welcome to the sixth issue of the Rust GameDev Workgroup’s
+                <description>&lt;p&gt;Welcome to the sixth issue of the Rust GameDev Workgroup’s
 monthly newsletter.&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;rust-lang.org&quot;&gt;Rust&lt;&#x2F;a&gt; is a systems language pursuing the trifecta:
 safety, concurrency, and speed.
@@ -3342,7 +3337,8 @@ That way, the focus is on the world itself and not on the tools to build it.&lt;
 &lt;a href=&quot;https:&#x2F;&#x2F;medium.com&#x2F;@geekrodion&#x2F;snake-game-with-rust-javascript-and-webassembly-5e22b357ec7b&quot;&gt;&amp;quot;Snake Game With Rust, JavaScript, and WebAssembly&amp;quot;&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;We will learn how to export API implemented with Rust to JavaScript app.
-We will get to know canvas rendering, applications of vectors, and basics of game development.&lt;&#x2F;p&gt;
+We will get to know canvas rendering, applications of vectors,
+and basics of game development.&lt;&#x2F;p&gt;
 &lt;&#x2F;blockquote&gt;
 &lt;p&gt;At the moment, the series consists of six articles (of eight planned):&lt;&#x2F;p&gt;
 &lt;ol&gt;
@@ -3435,7 +3431,8 @@ humans are inferior.&lt;&#x2F;p&gt;
 &lt;&#x2F;h3&gt;
 &lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;rust-gamedev.github.io&#x2F;posts&#x2F;newsletter-006&#x2F;split.png&quot; alt=&quot;gameplay screenshot: ships and asteroids&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;Mistodon&#x2F;status&#x2F;1216525697398853632&quot;&gt;Another entry for the Games Made Quick jam from @Mistodon&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
-&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;mistodon.itch.io&#x2F;split&quot;&gt;Split&lt;&#x2F;a&gt; is a game about outrunning a supernova and using time travel to improve your chances.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;mistodon.itch.io&#x2F;split&quot;&gt;Split&lt;&#x2F;a&gt; is a game about outrunning a supernova
+and using time travel to improve your chances.&lt;&#x2F;p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;In the middle of using time travel to research a dying star,
 you find yourself fleeing from a supernova.
@@ -3582,7 +3579,8 @@ to &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;EpicGames&#x2F;Signup&quot
 &lt;ul&gt;
 &lt;li&gt;Compiling a Rust crate as an Unreal Engine Module&lt;&#x2F;li&gt;
 &lt;li&gt;C++ Unreal modules linking to our Rust crate&lt;&#x2F;li&gt;
-&lt;li&gt;Automatic rebuilding C++ and binaries that depend on Rust code when that Rust code changes&lt;&#x2F;li&gt;
+&lt;li&gt;Automatic rebuilding C++ and binaries that depend on Rust code
+when that Rust code changes&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;&#x2F;blockquote&gt;
 &lt;p&gt;&lt;em&gt;Discussions:
@@ -3676,7 +3674,8 @@ and keyframable curves;&lt;&#x2F;li&gt;
 &lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;rust-gamedev.github.io&#x2F;posts&#x2F;newsletter-006&#x2F;rl-c70-pewpew.gif&quot; alt=&quot;Ranged attack demo&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;a href=&quot;http:&#x2F;&#x2F;bfnightly.bracketproductions.com&#x2F;rustbook&quot;&gt;The Roguelike Tutorial&lt;&#x2F;a&gt; continues to grow:
 chapter &lt;a href=&quot;http:&#x2F;&#x2F;bfnightly.bracketproductions.com&#x2F;rustbook&#x2F;chapter_70.html&quot;&gt;#70 &amp;quot;Missiles and Ranged Attacks&amp;quot;&lt;&#x2F;a&gt; was added to the book.
-It adds targeting, ranged weaponry, AI that shoots back, and projectile particles to the mix.&lt;&#x2F;p&gt;
+It adds targeting, ranged weaponry, AI that shoots back,
+and projectile particles to the mix.&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;a href=&quot;http:&#x2F;&#x2F;bfnightly.bracketproductions.com&#x2F;rustbook&#x2F;wasm&#x2F;chapter-70-missiles&quot;&gt;Check out an online demo here.&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;thebracket&#x2F;rltk_rs&quot;&gt;rltk_rs&lt;&#x2F;a&gt; by &lt;a href=&quot;https:&#x2F;&#x2F;patreon.com&#x2F;blackfuture&quot;&gt;@blackfuture&lt;&#x2F;a&gt; is a Rust implementation of
@@ -3917,20 +3916,39 @@ or &lt;a href=&quot;https:&#x2F;&#x2F;reddit.com&#x2F;r&#x2F;rust_gamedev&quot;&
                 <pubDate>Thu, 06 Feb 2020 00:00:00 +0000</pubDate>
                 <link>https://rust-gamedev.github.io/posts/survey-01/</link>
                 <guid>https://rust-gamedev.github.io/posts/survey-01/</guid>
-                <description>&lt;p&gt;In August last year, we conducted a survey for the Rust gamedev ecosystem. After an unfortunate delay, we can finally present the results. We received a whopping 403 responses! This trove of valuable feedback will inform the WG&#x27;s roadmap for 2020.&lt;&#x2F;p&gt;
+                <description>&lt;!-- markdownlint-disable single-title heading-increment no-blanks-blockquote --&gt;
+&lt;!-- markdownlint-configure-file {&quot;line-length&quot;: {&quot;heading_line_length&quot;: 120}} --&gt;
+&lt;p&gt;In August last year, we conducted a survey for the Rust gamedev ecosystem.
+After an unfortunate delay, we can finally present the results.
+We received a whopping 403 responses!
+This trove of valuable feedback will inform the WG&#x27;s roadmap for 2020.&lt;&#x2F;p&gt;
 &lt;h1 id=&quot;hobbyist-or-developer&quot;&gt;Hobbyist or developer?&amp;nbsp;&lt;a class=&quot;anchor&quot; href=&quot;#hobbyist-or-developer&quot; aria-hidden=&quot;true&quot;&gt;#&lt;&#x2F;a&gt;
 &lt;&#x2F;h1&gt;
 &lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;rust-gamedev.github.io&#x2F;posts&#x2F;survey-01&#x2F;hobbyist-or-professional.png&quot; alt=&quot;Respondents identifying as professional or hobbyist&quot; &#x2F;&gt;
-Out of the 400 respondents, 3&#x2F;4 identified as a &lt;em&gt;Hobbyist&lt;&#x2F;em&gt;. It should also be noted that a significant portion of the self-identified &lt;em&gt;Professionals&lt;&#x2F;em&gt; are more accurately described as &amp;quot;aspiring professional&amp;quot; undertaking their first game development venture. That still amounts to a large amount of commercial interest in Rust game development all the same!&lt;&#x2F;p&gt;
+Out of the 400 respondents, 3&#x2F;4 identified as a &lt;em&gt;Hobbyist&lt;&#x2F;em&gt;.
+It should also be noted that a significant portion
+of the self-identified &lt;em&gt;Professionals&lt;&#x2F;em&gt; are more accurately described
+as &amp;quot;aspiring professional&amp;quot; undertaking their first game development venture.
+That still amounts to a large amount of commercial interest
+in Rust game development all the same!&lt;&#x2F;p&gt;
 &lt;h1 id=&quot;are-you-using-rust-for-gamedev&quot;&gt;Are you using Rust for gamedev?&amp;nbsp;&lt;a class=&quot;anchor&quot; href=&quot;#are-you-using-rust-for-gamedev&quot; aria-hidden=&quot;true&quot;&gt;#&lt;&#x2F;a&gt;
 &lt;&#x2F;h1&gt;
 &lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;rust-gamedev.github.io&#x2F;posts&#x2F;survey-01&#x2F;using-rust.png&quot; alt=&quot;Respondents using Rust in game development&quot; &#x2F;&gt;
-Among the Professionals only 1&#x2F;4 said they are currently using Rust in games. That means the 200 respondents currently using Rust for gamedev are mostly hobbyists. No surprise there, as most professionals can&#x27;t bear the risk of being an early adopter. Big shoutout to all the hobbyists who are pushing the status quo, and kudos to the handful of studios that are using Rust in production long before most of their industry peers have even caught the scent.&lt;&#x2F;p&gt;
+Among the Professionals only 1&#x2F;4 said they are currently using Rust in games.
+That means the 200 respondents currently using Rust for gamedev are mostly hobbyists.
+No surprise there, as most professionals can&#x27;t bear the risk of being an early adopter.
+Big shoutout to all the hobbyists who are pushing the status quo, and kudos
+to the handful of studios that are using Rust in production
+long before most of their industry peers have even caught the scent.&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
-&lt;p&gt;&lt;em&gt;For the free-form answers that follow, a basic eyeballs&amp;amp;hands sentiment analysis was used to distill 400 replies into digestible form. The (#) number next to a heading roughly indicates the number of times that topic came up. Think of it as the &lt;strong&gt;signal strength&lt;&#x2F;strong&gt; of a given topic.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;For the free-form answers that follow, a basic eyeballs&amp;amp;hands sentiment analysis
+was used to distill 400 replies into digestible form.
+The (#) number next to a heading roughly indicates the number of times
+that topic came up. Think of it as the &lt;strong&gt;signal strength&lt;&#x2F;strong&gt; of a given topic.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;what-about-rust-as-a-language-and-ecosystem-presents-the-biggest-negatives-for-you-as-a-game-developer-right-now&quot;&gt;What about Rust as a language and ecosystem presents the biggest NEGATIVES for you as a game developer right now?&amp;nbsp;&lt;a class=&quot;anchor&quot; href=&quot;#what-about-rust-as-a-language-and-ecosystem-presents-the-biggest-negatives-for-you-as-a-game-developer-right-now&quot; aria-hidden=&quot;true&quot;&gt;#&lt;&#x2F;a&gt;
 &lt;&#x2F;h2&gt;
-&lt;p&gt;Priorities for professionals and hobbyists are largely the same. The biggest differences were:&lt;&#x2F;p&gt;
+&lt;p&gt;Priorities for professionals and hobbyists are largely the same.
+The biggest differences were:&lt;&#x2F;p&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;Hobbyists call for ecosystem maturity 2x more than anything else.&lt;&#x2F;p&gt;
@@ -3948,13 +3966,19 @@ Among the Professionals only 1&#x2F;4 said they are currently using Rust in game
 &lt;h3 id=&quot;ecosystem-maturity-114&quot;&gt;Ecosystem maturity (114)&amp;nbsp;&lt;a class=&quot;anchor&quot; href=&quot;#ecosystem-maturity-114&quot; aria-hidden=&quot;true&quot;&gt;#&lt;&#x2F;a&gt;
 &lt;&#x2F;h3&gt;
 &lt;blockquote&gt;
-&lt;p&gt;From playing in the space I know it&#x27;s possible to make games using Rust. However in the ecosystem my biggest negatives is the [lack of] case studies and demonstrations of it working.&lt;&#x2F;p&gt;
+&lt;p&gt;From playing in the space I know it&#x27;s possible to make games using Rust.
+However in the ecosystem my biggest negatives is the [lack of] case studies
+and demonstrations of it working.&lt;&#x2F;p&gt;
 &lt;&#x2F;blockquote&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Rust is still a risky choice, compared to C++.&lt;&#x2F;p&gt;
 &lt;&#x2F;blockquote&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Still feels like a new community. There is always risk associated with that - does the language take a big swing in direction - does support drop off. I&#x27;m encouraged by the support for low level (embedded &#x2F; OS ) development, which hopefully means the core feature set remains robust.&lt;&#x2F;p&gt;
+&lt;p&gt;Still feels like a new community.
+There is always risk associated with that - does the language
+take a big swing in direction - does support drop off.
+I&#x27;m encouraged by the support for low level (embedded &#x2F; OS ) development,
+which hopefully means the core feature set remains robust.&lt;&#x2F;p&gt;
 &lt;&#x2F;blockquote&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Many unfinished, unmaintained crates. Lots of churn.&lt;&#x2F;p&gt;
@@ -3968,10 +3992,17 @@ Among the Professionals only 1&#x2F;4 said they are currently using Rust in game
 &lt;p&gt;Compile time, no runtime reflection, updating deep dependency in the tree is hard.&lt;&#x2F;p&gt;
 &lt;&#x2F;blockquote&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Iteration time is I think too big, due to compilation time, [lack of] hot-reloading tooling, etc.&lt;&#x2F;p&gt;
+&lt;p&gt;Iteration time is I think too big, due to compilation time,
+[lack of] hot-reloading tooling, etc.&lt;&#x2F;p&gt;
 &lt;&#x2F;blockquote&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Iteration time (especially while prototyping). This includes both compile time but also sorting out lifetimes when I know I&#x27;ll be rewriting something very soon anyway, this &amp;quot;frontloading&amp;quot; the effort of having the borrow checker run at compile time is useful for most tasks but when I want to try something quickly it can be a draining experience, in this regard GC&#x27;d languages have an advantage imo.&lt;&#x2F;p&gt;
+&lt;p&gt;Iteration time (especially while prototyping).
+This includes both compile time but also sorting out lifetimes when I know
+I&#x27;ll be rewriting something very soon anyway,
+this &amp;quot;frontloading&amp;quot; the effort of having the borrow checker run at compile time
+is useful for most tasks but when I want to try something quickly
+it can be a draining experience,
+in this regard GC&#x27;d languages have an advantage imo.&lt;&#x2F;p&gt;
 &lt;&#x2F;blockquote&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Prototyping seems not as easy in Rust due to &amp;quot;fighting the compiler&amp;quot;&lt;&#x2F;p&gt;
@@ -3985,12 +4016,14 @@ Among the Professionals only 1&#x2F;4 said they are currently using Rust in game
 &lt;p&gt;Lacking examples for gamedev libs.&lt;&#x2F;p&gt;
 &lt;&#x2F;blockquote&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Documentation is usually either high level or examples but rarely both. Very few real world examples to draw from.&lt;&#x2F;p&gt;
+&lt;p&gt;Documentation is usually either high level or examples but rarely both.
+Very few real world examples to draw from.&lt;&#x2F;p&gt;
 &lt;&#x2F;blockquote&gt;
 &lt;h3 id=&quot;lack-of-full-featured-engines-35&quot;&gt;Lack of full-featured engines (35)&amp;nbsp;&lt;a class=&quot;anchor&quot; href=&quot;#lack-of-full-featured-engines-35&quot; aria-hidden=&quot;true&quot;&gt;#&lt;&#x2F;a&gt;
 &lt;&#x2F;h3&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Lack of a data-and-script based engine like Unreal Engine or Unity means even small projects end up feeling very bring-your-own-engine.&lt;&#x2F;p&gt;
+&lt;p&gt;Lack of a data-and-script based engine like Unreal Engine or Unity
+means even small projects end up feeling very bring-your-own-engine.&lt;&#x2F;p&gt;
 &lt;&#x2F;blockquote&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Missing graphical editors, frictionless prototyping of games&lt;&#x2F;p&gt;
@@ -3998,31 +4031,44 @@ Among the Professionals only 1&#x2F;4 said they are currently using Rust in game
 &lt;h3 id=&quot;rust-learning-curve-onboarding-to-a-niche-language-29&quot;&gt;Rust learning curve &#x2F; onboarding to a niche language (29)&amp;nbsp;&lt;a class=&quot;anchor&quot; href=&quot;#rust-learning-curve-onboarding-to-a-niche-language-29&quot; aria-hidden=&quot;true&quot;&gt;#&lt;&#x2F;a&gt;
 &lt;&#x2F;h3&gt;
 &lt;blockquote&gt;
-&lt;p&gt;The language has a higher upfront cognitive load than any other mainstream language I know of, mostly due to the borrow checker. It&#x27;s very hard to hack through stuff and get away with it, which makes it a particularly hard sell for game prototypes.&lt;&#x2F;p&gt;
+&lt;p&gt;The language has a higher upfront cognitive load than any other
+mainstream language I know of, mostly due to the borrow checker.
+It&#x27;s very hard to hack through stuff and get away with it,
+which makes it a particularly hard sell for game prototypes.&lt;&#x2F;p&gt;
 &lt;&#x2F;blockquote&gt;
 &lt;blockquote&gt;
-&lt;p&gt;I know that it is a less common language to use so as a company I will have to have my staff learn Rust before they can start.&lt;&#x2F;p&gt;
+&lt;p&gt;I know that it is a less common language to use so as a company
+I will have to have my staff learn Rust before they can start.&lt;&#x2F;p&gt;
 &lt;&#x2F;blockquote&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Rust could be tricky to hire for, and hiring someone who doesn&#x27;t know Rust to work in Rust will come with a ramp-up period.&lt;&#x2F;p&gt;
+&lt;p&gt;Rust could be tricky to hire for, and hiring someone
+who doesn&#x27;t know Rust to work in Rust will come with a ramp-up period.&lt;&#x2F;p&gt;
 &lt;&#x2F;blockquote&gt;
 &lt;h3 id=&quot;ide-rls-story-28&quot;&gt;IDE&#x2F;RLS story (28)&amp;nbsp;&lt;a class=&quot;anchor&quot; href=&quot;#ide-rls-story-28&quot; aria-hidden=&quot;true&quot;&gt;#&lt;&#x2F;a&gt;
 &lt;&#x2F;h3&gt;
 &lt;p&gt;Tooling around IDE is limited compared to Visual Studio with C++ or C#.´&lt;&#x2F;p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Definitely lack of proper IDE (like out of the box Cargo integration and working debugger - yeah, I tested Visual Studio Code and it&#x27;s very slow, suggestions are not great, fastest way to run, check and build is to use terminal - not IDE) - I would say that something like QT Creator or Visual Studio would be great&lt;&#x2F;p&gt;
+&lt;p&gt;Definitely lack of proper IDE
+(like out of the box Cargo integration and working debugger - yeah,
+I tested Visual Studio Code and it&#x27;s very slow, suggestions are not great,
+fastest way to run, check and build is to use terminal - not IDE)
+- I would say that something like QT Creator or Visual Studio would be great&lt;&#x2F;p&gt;
 &lt;&#x2F;blockquote&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Regarding debugging, the industry standard is (or that I&#x27;m aware of) Visual Studio, for its very good IDE and tools, also, a lot of users are very used to that kind of tools and looks like Rust is missing some of them.&lt;&#x2F;p&gt;
+&lt;p&gt;Regarding debugging, the industry standard is (or that I&#x27;m aware of) Visual Studio,
+for its very good IDE and tools, also, a lot of users are very used
+to that kind of tools and looks like Rust is missing some of them.&lt;&#x2F;p&gt;
 &lt;&#x2F;blockquote&gt;
 &lt;blockquote&gt;
-&lt;p&gt;rust-analyzer is still very incomplete, but it&#x27;s the only thing that works for me&lt;&#x2F;p&gt;
+&lt;p&gt;rust-analyzer is still very incomplete,
+but it&#x27;s the only thing that works for me&lt;&#x2F;p&gt;
 &lt;&#x2F;blockquote&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Poor IDE and debugging support in IDE. Mainly visual studio.&lt;&#x2F;p&gt;
 &lt;&#x2F;blockquote&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Can&#x27;t debug it properly, hashmap (for example) is absolutely not debuggable. Not sure how it works inside (instead of C++).&lt;&#x2F;p&gt;
+&lt;p&gt;Can&#x27;t debug it properly, hashmap (for example) is absolutely not debuggable.
+Not sure how it works inside (instead of C++).&lt;&#x2F;p&gt;
 &lt;&#x2F;blockquote&gt;
 &lt;blockquote&gt;
 &lt;p&gt;debug mode way too slow, often need to set opt-level=1 or 2 for dev profile&lt;&#x2F;p&gt;
@@ -4030,18 +4076,25 @@ Among the Professionals only 1&#x2F;4 said they are currently using Rust in game
 &lt;h3 id=&quot;gui-tooling-23&quot;&gt;GUI tooling (23)&amp;nbsp;&lt;a class=&quot;anchor&quot; href=&quot;#gui-tooling-23&quot; aria-hidden=&quot;true&quot;&gt;#&lt;&#x2F;a&gt;
 &lt;&#x2F;h3&gt;
 &lt;blockquote&gt;
-&lt;p&gt;As a tools developer, a major negative point is the current absence of a reliable GUI framework (we use WPF + C# with Visual Studio).&lt;&#x2F;p&gt;
+&lt;p&gt;As a tools developer, a major negative point is the current absence
+of a reliable GUI framework (we use WPF + C# with Visual Studio).&lt;&#x2F;p&gt;
 &lt;&#x2F;blockquote&gt;
 &lt;h3 id=&quot;game-consoles-13&quot;&gt;Game consoles (13)&amp;nbsp;&lt;a class=&quot;anchor&quot; href=&quot;#game-consoles-13&quot; aria-hidden=&quot;true&quot;&gt;#&lt;&#x2F;a&gt;
 &lt;&#x2F;h3&gt;
 &lt;blockquote&gt;
-&lt;p&gt;No first party support for console development makes Rust a tough sell for a lot of professional work.&lt;&#x2F;p&gt;
+&lt;p&gt;No first party support for console development makes Rust a tough sell
+for a lot of professional work.&lt;&#x2F;p&gt;
 &lt;&#x2F;blockquote&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Rust is not officially supported on console by Sony or Microsoft.&lt;&#x2F;p&gt;
 &lt;&#x2F;blockquote&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Rust can&#x27;t be seriously considered yet, because it does not have support from the PS4 SDK. Although there are other considerations (studio culture, integration with existing systems, etc.), official support from Sony is a requirement before Rust could be used in a PS4 game.&lt;&#x2F;p&gt;
+&lt;p&gt;Rust can&#x27;t be seriously considered yet, because it does not have support
+from the PS4 SDK.
+Although there are other considerations
+(studio culture, integration with existing systems, etc.),
+official support from Sony is a requirement before Rust could be used
+in a PS4 game.&lt;&#x2F;p&gt;
 &lt;&#x2F;blockquote&gt;
 &lt;h3 id=&quot;web-mobile-support-14&quot;&gt;Web&#x2F;mobile support (14)&amp;nbsp;&lt;a class=&quot;anchor&quot; href=&quot;#web-mobile-support-14&quot; aria-hidden=&quot;true&quot;&gt;#&lt;&#x2F;a&gt;
 &lt;&#x2F;h3&gt;
@@ -4050,7 +4103,9 @@ Among the Professionals only 1&#x2F;4 said they are currently using Rust in game
 &lt;h3 id=&quot;c-interop-7&quot;&gt;C++ interop (7)&amp;nbsp;&lt;a class=&quot;anchor&quot; href=&quot;#c-interop-7&quot; aria-hidden=&quot;true&quot;&gt;#&lt;&#x2F;a&gt;
 &lt;&#x2F;h3&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Our code, and any middleware&#x2F;engine that we might license, is in C++. Using Rust and C++ together is painful, and rewriting the existing tech to be purely Rust would be very expensive.&lt;&#x2F;p&gt;
+&lt;p&gt;Our code, and any middleware&#x2F;engine that we might license, is in C++.
+Using Rust and C++ together is painful, and rewriting the existing tech
+to be purely Rust would be very expensive.&lt;&#x2F;p&gt;
 &lt;&#x2F;blockquote&gt;
 &lt;p&gt;Testing and too much things linked to C.&lt;&#x2F;p&gt;
 &lt;blockquote&gt;
@@ -4060,14 +4115,18 @@ Among the Professionals only 1&#x2F;4 said they are currently using Rust in game
 &lt;p&gt;Unknown compatibility&lt;&#x2F;p&gt;
 &lt;&#x2F;blockquote&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Lack of a straightforward path to make rust work easily with C++ in both directions. The only trustable way I see now is through manual C wrappers, which is error-prone and time consuming.&lt;&#x2F;p&gt;
+&lt;p&gt;Lack of a straightforward path to make rust work easily
+with C++ in both directions.
+The only trustable way I see now is through manual C wrappers,
+which is error-prone and time consuming.&lt;&#x2F;p&gt;
 &lt;&#x2F;blockquote&gt;
 &lt;h1 id=&quot;what-about-rust-as-a-language-and-ecosystem-presents-the-biggest-positives-for-you-as-a-game-developer-right-now&quot;&gt;What about Rust as a language and ecosystem presents the biggest POSITIVES for you as a game developer right now?&amp;nbsp;&lt;a class=&quot;anchor&quot; href=&quot;#what-about-rust-as-a-language-and-ecosystem-presents-the-biggest-positives-for-you-as-a-game-developer-right-now&quot; aria-hidden=&quot;true&quot;&gt;#&lt;&#x2F;a&gt;
 &lt;&#x2F;h1&gt;
 &lt;h3 id=&quot;safety-100&quot;&gt;Safety (100)&amp;nbsp;&lt;a class=&quot;anchor&quot; href=&quot;#safety-100&quot; aria-hidden=&quot;true&quot;&gt;#&lt;&#x2F;a&gt;
 &lt;&#x2F;h3&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Strong type system allows for easily enforcing some performance and safety best practices&lt;&#x2F;p&gt;
+&lt;p&gt;Strong type system allows for easily enforcing
+some performance and safety best practices&lt;&#x2F;p&gt;
 &lt;&#x2F;blockquote&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Multithreading safety&lt;&#x2F;p&gt;
@@ -4092,7 +4151,8 @@ Among the Professionals only 1&#x2F;4 said they are currently using Rust in game
 &lt;h3 id=&quot;community-69&quot;&gt;Community (69)&amp;nbsp;&lt;a class=&quot;anchor&quot; href=&quot;#community-69&quot; aria-hidden=&quot;true&quot;&gt;#&lt;&#x2F;a&gt;
 &lt;&#x2F;h3&gt;
 &lt;blockquote&gt;
-&lt;p&gt;the ecosystem is full of passionate and smart people who take quality software very seriously&lt;&#x2F;p&gt;
+&lt;p&gt;the ecosystem is full of passionate and smart people
+who take quality software very seriously&lt;&#x2F;p&gt;
 &lt;&#x2F;blockquote&gt;
 &lt;blockquote&gt;
 &lt;p&gt;a really welcoming community with great goals and courage to pursue them&lt;&#x2F;p&gt;
@@ -4103,12 +4163,14 @@ Among the Professionals only 1&#x2F;4 said they are currently using Rust in game
 &lt;h3 id=&quot;cargo-57&quot;&gt;Cargo (57)&amp;nbsp;&lt;a class=&quot;anchor&quot; href=&quot;#cargo-57&quot; aria-hidden=&quot;true&quot;&gt;#&lt;&#x2F;a&gt;
 &lt;&#x2F;h3&gt;
 &lt;blockquote&gt;
-&lt;p&gt;being able to pull down libraries piecemeal and have them build with your stuff immediately is great&lt;&#x2F;p&gt;
+&lt;p&gt;being able to pull down libraries piecemeal and have them build
+with your stuff immediately is great&lt;&#x2F;p&gt;
 &lt;&#x2F;blockquote&gt;
 &lt;h3 id=&quot;ecosystem-50&quot;&gt;Ecosystem (50)&amp;nbsp;&lt;a class=&quot;anchor&quot; href=&quot;#ecosystem-50&quot; aria-hidden=&quot;true&quot;&gt;#&lt;&#x2F;a&gt;
 &lt;&#x2F;h3&gt;
 &lt;blockquote&gt;
-&lt;p&gt;A mature Rust ecosystem will (hopefully!) have a lower bar for entry than a mature C++ ecosystem, without giving up performance.&lt;&#x2F;p&gt;
+&lt;p&gt;A mature Rust ecosystem will (hopefully!) have a lower bar for entry
+than a mature C++ ecosystem, without giving up performance.&lt;&#x2F;p&gt;
 &lt;&#x2F;blockquote&gt;
 &lt;h3 id=&quot;wasm-web-support-20&quot;&gt;WASM (web)  support (20)&amp;nbsp;&lt;a class=&quot;anchor&quot; href=&quot;#wasm-web-support-20&quot; aria-hidden=&quot;true&quot;&gt;#&lt;&#x2F;a&gt;
 &lt;&#x2F;h3&gt;
@@ -4123,10 +4185,25 @@ Among the Professionals only 1&#x2F;4 said they are currently using Rust in game
 &lt;h2 id=&quot;selected-quotes&quot;&gt;Selected quotes&amp;nbsp;&lt;a class=&quot;anchor&quot; href=&quot;#selected-quotes&quot; aria-hidden=&quot;true&quot;&gt;#&lt;&#x2F;a&gt;
 &lt;&#x2F;h2&gt;
 &lt;blockquote&gt;
-&lt;p&gt;The language has a higher upfront cognitive load than any other mainstream language. Which means that on an established, bigger project (maybe with a team behind) the productivity is amazing compared to C++! It&#x27;s much easier to express strong &amp;amp; safe interfaces that make bugs just harder to introduce.
-It really shines in network code that needs to be 100% safe and resist bad actors! My current game server code has 0 unwraps&#x2F;panics&#x2F;expects and so I just &lt;em&gt;know&lt;&#x2F;em&gt; it can&#x27;t crash... I wish I could have that feeling in C++.
-C++ on the contrary makes it easy to whip up something which then has a 20% crash rate and tanks perf and takes 2 weeks to hammer into shape, and after those 2 weeks it looks like Rust code anyway.
-Unfortunately, knowing the management culture in the gamedev industry, Rust has an extremely hard road in front of it due to this. In my experience gamedev is plagued by extreme short term (like, 1 month) reasoning resulting in crunches and awful technical tradeoffs. Rust made many choices that delay that fateful &amp;quot;demo day with the execs&amp;quot; because it forces you to do things right. But very few can express why this is valuable up the chain and be listened to.&lt;&#x2F;p&gt;
+&lt;p&gt;The language has a higher upfront cognitive load than any other mainstream language.
+Which means that on an established, bigger project (maybe with a team behind)
+the productivity is amazing compared to C++!
+It&#x27;s much easier to express strong &amp;amp; safe interfaces
+that make bugs just harder to introduce.
+It really shines in network code that needs to be 100% safe and resist bad actors!
+My current game server code has 0 unwraps&#x2F;panics&#x2F;expects
+and so I just &lt;em&gt;know&lt;&#x2F;em&gt; it can&#x27;t crash...
+I wish I could have that feeling in C++.
+C++ on the contrary makes it easy to whip up something which then has
+a 20% crash rate and tanks perf and takes 2 weeks to hammer into shape,
+and after those 2 weeks it looks like Rust code anyway.
+Unfortunately, knowing the management culture in the gamedev industry,
+Rust has an extremely hard road in front of it due to this.
+In my experience gamedev is plagued by extreme short term (like, 1 month)
+reasoning resulting in crunches and awful technical tradeoffs.
+Rust made many choices that delay that fateful &amp;quot;demo day with the execs&amp;quot;
+because it forces you to do things right.
+But very few can express why this is valuable up the chain and be listened to.&lt;&#x2F;p&gt;
 &lt;&#x2F;blockquote&gt;
 &lt;blockquote&gt;
 &lt;p&gt;I love Rust!
@@ -4140,11 +4217,22 @@ Unfortunately, knowing the management culture in the gamedev industry, Rust has 
 • I know we&#x27;ll get there together!&lt;&#x2F;p&gt;
 &lt;&#x2F;blockquote&gt;
 &lt;blockquote&gt;
-&lt;p&gt;We are especially interested in data-driven games for procedural generation and AI. Rust seems a great fit for this computationally intensive work.&lt;&#x2F;p&gt;
+&lt;p&gt;We are especially interested in data-driven games
+for procedural generation and AI.
+Rust seems a great fit for this computationally intensive work.&lt;&#x2F;p&gt;
 &lt;&#x2F;blockquote&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Since most game developers are tinkerers more than engineers or scientists, the whole industry is plagued with bad code quality, lack of architecture and bad code design. Undefined behavior, nullptr exceptions, use after freed, multithreading issues and so on are recurrent problems. Rust biggest positive is really the fact that it addresses all that without needing to change the people behind the games. That&#x27;s why I believe in it so much :).
-Also worth noting that the module system and crates are really important nowadays because monolithic codebases of millions of lines of code is really a hell to work into.&lt;&#x2F;p&gt;
+&lt;p&gt;Since most game developers are tinkerers more than engineers or scientists,
+the whole industry is plagued with bad code quality,
+lack of architecture and bad code design.
+Undefined behavior, nullptr exceptions, use after freed,
+multithreading issues and so on are recurrent problems.
+Rust biggest positive is really the fact that it addresses
+all that without needing to change the people behind the games.
+That&#x27;s why I believe in it so much :).
+Also worth noting that the module system and crates are really important
+nowadays because monolithic codebases of millions of lines of code
+is really a hell to work into.&lt;&#x2F;p&gt;
 &lt;&#x2F;blockquote&gt;
 &lt;h2 id=&quot;what-do-you-think-should-be-the-game-dev-working-group-s-priorities-for-the-next-3-6-months&quot;&gt;What do you think should be the game-dev working group&#x27;s priorities for the next 3-6 months?&amp;nbsp;&lt;a class=&quot;anchor&quot; href=&quot;#what-do-you-think-should-be-the-game-dev-working-group-s-priorities-for-the-next-3-6-months&quot; aria-hidden=&quot;true&quot;&gt;#&lt;&#x2F;a&gt;
 &lt;&#x2F;h2&gt;
@@ -4168,9 +4256,13 @@ Also worth noting that the module system and crates are really important nowaday
 &lt;ul&gt;
 &lt;li&gt;Lobby for Rust adoption on next-gen consoles.&lt;&#x2F;li&gt;
 &lt;li&gt;Clearer information about console support.&lt;&#x2F;li&gt;
-&lt;li&gt;Start an entity capable of getting and maintain console NDAs to keep official rust builds made for console support. It’s a huge pain, but other open source projects do it, and it would be awesome for the community.&lt;&#x2F;li&gt;
+&lt;li&gt;Start an entity capable of getting and maintain console NDAs
+to keep official rust builds made for console support.
+It’s a huge pain, but other open source projects do it,
+and it would be awesome for the community.&lt;&#x2F;li&gt;
 &lt;li&gt;Wasm&#x2F;web support (heavier from hobbyists)&lt;&#x2F;li&gt;
-&lt;li&gt;Paint a clearer picture of what the path to gaming consoles looks like, within the confines of what those proprietary SDKs and APIs allow.&lt;&#x2F;li&gt;
+&lt;li&gt;Paint a clearer picture of what the path to gaming consoles looks like,
+within the confines of what those proprietary SDKs and APIs allow.&lt;&#x2F;li&gt;
 &lt;li&gt;Mobile support&lt;&#x2F;li&gt;
 &lt;li&gt;Easier packaging&lt;&#x2F;li&gt;
 &lt;li&gt;Cross-compiling&lt;&#x2F;li&gt;
@@ -4179,7 +4271,11 @@ Also worth noting that the module system and crates are really important nowaday
 &lt;h3 id=&quot;ecosystem-promotion-coordination-51&quot;&gt;Ecosystem promotion &amp;amp; coordination (51)&amp;nbsp;&lt;a class=&quot;anchor&quot; href=&quot;#ecosystem-promotion-coordination-51&quot; aria-hidden=&quot;true&quot;&gt;#&lt;&#x2F;a&gt;
 &lt;&#x2F;h3&gt;
 &lt;ul&gt;
-&lt;li&gt;Develop contacts within the industry so that the WG can be a liaison between industry and OSS developers. By inviting and involving industry, the ecosystem can grow and potentially receive support (in the form of PRs, open sourcing existing tools, or financial support for OSS developers.)&lt;&#x2F;li&gt;
+&lt;li&gt;Develop contacts within the industry so that the WG can be a liaison between
+industry and OSS developers.
+By inviting and involving industry, the ecosystem can grow and potentially
+receive support (in the form of PRs, open sourcing existing tools,
+or financial support for OSS developers.)&lt;&#x2F;li&gt;
 &lt;li&gt;Encourage &amp;amp; facilitate collaboration on existing tools.&lt;&#x2F;li&gt;
 &lt;li&gt;Library “blessings”&lt;&#x2F;li&gt;
 &lt;li&gt;more things like this survey&lt;&#x2F;li&gt;
@@ -4188,8 +4284,13 @@ Also worth noting that the module system and crates are really important nowaday
 &lt;li&gt;Game jams&lt;&#x2F;li&gt;
 &lt;li&gt;Better insight into WG’s current agenda&lt;&#x2F;li&gt;
 &lt;li&gt;Come up with ways to unblock foundational projects if they get stuck&lt;&#x2F;li&gt;
-&lt;li&gt;Identify in-progress issues, and propose new issues, for the Rust language, that are relevant to game development. (For example, debug Rust is very slow, so we need good ways to control what is and isn&#x27;t optimized.)&lt;&#x2F;li&gt;
-&lt;li&gt;Seek opportunities to address cross-cutting concerns where possible. The recent investigation into raw-window-handle and evaluation of if we can&#x2F;should converge on a math library are both good examples.&lt;&#x2F;li&gt;
+&lt;li&gt;Identify in-progress issues, and propose new issues, for the Rust language,
+that are relevant to game development.
+(For example, debug Rust is very slow, so we need good ways to control what
+is and isn&#x27;t optimized.)&lt;&#x2F;li&gt;
+&lt;li&gt;Seek opportunities to address cross-cutting concerns where possible.
+The recent investigation into raw-window-handle and evaluation of
+if we can&#x2F;should converge on a math library are both good examples.&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;h3 id=&quot;first-grade-game-engine-framework-46&quot;&gt;First-grade game engine&#x2F;framework (46)&amp;nbsp;&lt;a class=&quot;anchor&quot; href=&quot;#first-grade-game-engine-framework-46&quot; aria-hidden=&quot;true&quot;&gt;#&lt;&#x2F;a&gt;
 &lt;&#x2F;h3&gt;
@@ -4237,9 +4338,15 @@ Also worth noting that the module system and crates are really important nowaday
 &lt;&#x2F;h3&gt;
 &lt;h2 id=&quot;can-you-name-some-libraries-you-are-thankful-for-or-take-special-interest-in&quot;&gt;Can you name some libraries you are thankful for or take special interest in?&amp;nbsp;&lt;a class=&quot;anchor&quot; href=&quot;#can-you-name-some-libraries-you-are-thankful-for-or-take-special-interest-in&quot; aria-hidden=&quot;true&quot;&gt;#&lt;&#x2F;a&gt;
 &lt;&#x2F;h2&gt;
-&lt;p&gt;Just for fun, we asked respondents to name libraries or projects they were thankful for. In the 6 months that have passed since this survey went out there&#x27;s been quite a few newcomers on the rise that would probably show more prominently here if we asked again today. Rest assured there will be more surveys.
+&lt;p&gt;Just for fun, we asked respondents to name libraries or projects
+they were thankful for.
+In the 6 months that have passed since this survey went out
+there&#x27;s been quite a few newcomers on the rise that would probably show
+more prominently here if we asked again today.
+Rest assured there will be more surveys.
 &lt;img src=&quot;https:&#x2F;&#x2F;rust-gamedev.github.io&#x2F;posts&#x2F;survey-01&#x2F;survey-thanks.png&quot; alt=&quot;Shoutouts to ecosystem projects&quot; &#x2F;&gt;
-&lt;em&gt;Thanks so much to the survey respondents and all the people out there working tirelessly make Rust a first-tier language and ecosystem for game development.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;em&gt;Thanks so much to the survey respondents and all the people out there
+working tirelessly make Rust a first-tier language and ecosystem for game development.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
 </description>
             </item>
         
@@ -4500,8 +4607,8 @@ but &lt;em&gt;fast&lt;&#x2F;em&gt;, both in terms of productivity and in terms o
 &lt;p&gt;This month &lt;a href=&quot;https:&#x2F;&#x2F;grayolson.me&#x2F;blog&#x2F;posts&#x2F;ultraviolet-0.4&quot;&gt;ultraviolet v0.4&lt;&#x2F;a&gt; was released by &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;fu5ha&quot;&gt;@fu5ha&lt;&#x2F;a&gt;.
 It brings
 &lt;a href=&quot;https:&#x2F;&#x2F;docs.rs&#x2F;ultraviolet&#x2F;0.4.3&#x2F;ultraviolet&#x2F;transform&#x2F;index.html&quot;&gt;transform&lt;&#x2F;a&gt;
-&amp;amp; &lt;a href=&quot;https:&#x2F;&#x2F;docs.rs&#x2F;ultraviolet&#x2F;0.4.3&#x2F;ultraviolet&#x2F;projection&#x2F;index.html&quot;&gt;projection&lt;&#x2F;a&gt; modules
-and many smaller improvements.&lt;&#x2F;p&gt;
+&amp;amp; &lt;a href=&quot;https:&#x2F;&#x2F;docs.rs&#x2F;ultraviolet&#x2F;0.4.3&#x2F;ultraviolet&#x2F;projection&#x2F;index.html&quot;&gt;projection&lt;&#x2F;a&gt;
+modules and many smaller improvements.&lt;&#x2F;p&gt;
 &lt;p&gt;Check out the &lt;a href=&quot;https:&#x2F;&#x2F;grayolson.me&#x2F;blog&#x2F;posts&#x2F;ultraviolet-0.4&quot;&gt;full release announcement post&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;component-group-v0-2&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;sunjay&#x2F;component_group&quot;&gt;component_group&lt;&#x2F;a&gt; v0.2&amp;nbsp;&lt;a class=&quot;anchor&quot; href=&quot;#component-group-v0-2&quot; aria-hidden=&quot;true&quot;&gt;#&lt;&#x2F;a&gt;
 &lt;&#x2F;h3&gt;
@@ -4628,7 +4735,10 @@ Main changes are:&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;17cupsofcoffee&quot;&gt;@17cupsofcoffee&lt;&#x2F;a&gt; also posted &lt;a href=&quot;https:&#x2F;&#x2F;gist.github.com&#x2F;17cupsofcoffee&#x2F;f5082a13626ddf0030075d542262c728&quot;&gt;a little example&lt;&#x2F;a&gt;
 of how you can implement pooling for sound effects&lt;&#x2F;p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;This is handy for situations where you don&#x27;t want more than X instances of the same sound playing at once (e.g. if the player is able to fire a weapon as fast as they can hit a button), etc...&lt;&#x2F;p&gt;
+&lt;p&gt;This is handy for situations where you don&#x27;t want more than X instances
+of the same sound playing at once
+(e.g. if the player is able to fire a weapon as fast as they can hit a button),
+etc...&lt;&#x2F;p&gt;
 &lt;&#x2F;blockquote&gt;
 &lt;hr &#x2F;&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;puppetmaster.itch.io&#x2F;compact-space&quot;&gt;&lt;img src=&quot;https:&#x2F;&#x2F;rust-gamedev.github.io&#x2F;posts&#x2F;newsletter-005&#x2F;compact-space.gif&quot; alt=&quot;Compact Space gameplay sample&quot; &#x2F;&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
@@ -4660,7 +4770,8 @@ and &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;siebencorgie&#x2F;status
 &lt;&#x2F;h3&gt;
 &lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;rust-gamedev.github.io&#x2F;posts&#x2F;newsletter-005&#x2F;rendology_hdr_0_4.png&quot; alt=&quot;Rendology demo screenshot&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;leod&#x2F;rendology&quot;&gt;Rendology&lt;&#x2F;a&gt; is a 3D rendering pipeline based on Glium and written in Rust.
-It features basic implementations of shadow mapping, deferred shading, a glow effect, FXAA and instanced rendering.&lt;&#x2F;p&gt;
+It features basic implementations of shadow mapping, deferred shading,
+a glow effect, FXAA and instanced rendering.&lt;&#x2F;p&gt;
 &lt;p&gt;An &lt;a href=&quot;https:&#x2F;&#x2F;leod.github.io&#x2F;rust&#x2F;gamedev&#x2F;rendology&#x2F;2019&#x2F;12&#x2F;13&#x2F;introduction-to-rendology.html&quot;&gt;&amp;quot;Introduction to Rendology&amp;quot;&lt;&#x2F;a&gt; article
 outlines some of the concepts of Rendology
 and describes how they came to be this way.&lt;&#x2F;p&gt;
@@ -4707,7 +4818,8 @@ includes almost 70 chapters now and continues to grow!&lt;&#x2F;p&gt;
 &lt;li&gt;a generic &amp;quot;effects&amp;quot; system;&lt;&#x2F;li&gt;
 &lt;li&gt;cursed items, scrolls of remove curse, and item identification scrolls;&lt;&#x2F;li&gt;
 &lt;li&gt;items that affect your attributes, generic statuses;&lt;&#x2F;li&gt;
-&lt;li&gt;spells, spellbooks, weapon proc fx, mob special abilities, DoT, initiative +&#x2F;- effects;&lt;&#x2F;li&gt;
+&lt;li&gt;spells, spellbooks, weapon proc fx, mob special abilities,
+DoT, initiative +&#x2F;- effects;&lt;&#x2F;li&gt;
 &lt;li&gt;a dragon lair in a ruined fort;&lt;&#x2F;li&gt;
 &lt;li&gt;multi-tile entities including pathfinding;&lt;&#x2F;li&gt;
 &lt;li&gt;parameterized procgen of magic weaponry&#x2F;armor;&lt;&#x2F;li&gt;
@@ -4816,8 +4928,8 @@ and highlight events from the past. --&gt;
 &lt;p&gt;^ &lt;em&gt;click to see &lt;a href=&quot;https:&#x2F;&#x2F;youtube.com&#x2F;watch?v=n-txrCMvdms&quot;&gt;the tutorial video&lt;&#x2F;a&gt;&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;In the November of 2018,
 &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;AndreaPessino&quot;&gt;@AndreaPessino&lt;&#x2F;a&gt; (Founder&#x2F;CTO of &lt;a href=&quot;https:&#x2F;&#x2F;readyatdawn.com&quot;&gt;Ready At Dawn&lt;&#x2F;a&gt; Studios)
-released a &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;apessino&#x2F;modulator&quot;&gt;Modulator&lt;&#x2F;a&gt; crate and
-an awesome &lt;a href=&quot;https:&#x2F;&#x2F;youtube.com&#x2F;watch?v=n-txrCMvdms&quot;&gt;&amp;quot;Modulator (Rust conding series)&amp;quot;&lt;&#x2F;a&gt; tutorial video about it.&lt;&#x2F;p&gt;
+released a &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;apessino&#x2F;modulator&quot;&gt;Modulator&lt;&#x2F;a&gt; crate and an awesome
+&lt;a href=&quot;https:&#x2F;&#x2F;youtube.com&#x2F;watch?v=n-txrCMvdms&quot;&gt;&amp;quot;Modulator (Rust conding series)&amp;quot;&lt;&#x2F;a&gt; tutorial video about it.&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;apessino&#x2F;modulator&quot;&gt;Modulator&lt;&#x2F;a&gt; is a Rust crate for abstracted, decoupled modulation sources.&lt;&#x2F;p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Modulators are sources of change over time which exist
@@ -4848,8 +4960,7 @@ or &lt;a href=&quot;https:&#x2F;&#x2F;reddit.com&#x2F;r&#x2F;rust_gamedev&quot;&
                 <pubDate>Sun, 08 Dec 2019 00:00:00 +0000</pubDate>
                 <link>https://rust-gamedev.github.io/posts/newsletter-004/</link>
                 <guid>https://rust-gamedev.github.io/posts/newsletter-004/</guid>
-                <description>&lt;!-- markdownlint-disable no-trailing-punctuation --&gt;
-&lt;p&gt;Welcome to the fourth issue of the Rust GameDev Workgroup’s
+                <description>&lt;p&gt;Welcome to the fourth issue of the Rust GameDev Workgroup’s
 monthly newsletter.&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;rust-lang.org&quot;&gt;Rust&lt;&#x2F;a&gt; is a systems language pursuing the trifecta:
 safety, concurrency, and speed.
@@ -5151,7 +5262,8 @@ changes from the &lt;a href=&quot;https:&#x2F;&#x2F;gfx-rs.github.io&#x2F;2019&#
 &lt;li&gt;slimmed-down Rendy dependencies (memory and descriptor);&lt;&#x2F;li&gt;
 &lt;li&gt;new skybox example.&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
-&lt;p&gt;Lyon has &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;nical&#x2F;lyon&#x2F;pull&#x2F;496&quot;&gt;updated examples&lt;&#x2F;a&gt; for this version, showing how to draw vector graphics on &lt;code&gt;wgpu&lt;&#x2F;code&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;Lyon has &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;nical&#x2F;lyon&#x2F;pull&#x2F;496&quot;&gt;updated examples&lt;&#x2F;a&gt;
+for this version, showing how to draw vector graphics on &lt;code&gt;wgpu&lt;&#x2F;code&gt;.&lt;&#x2F;p&gt;
 &lt;p&gt;Also, &lt;code&gt;wgpu&lt;&#x2F;code&gt; is now a part of Gecko code base for powering the emerging WebGPU implementation.&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;book-learn-luminance&quot;&gt;Book: &lt;a href=&quot;https:&#x2F;&#x2F;rust-tutorials.github.io&#x2F;learn-luminance&quot;&gt;Learn Luminance&lt;&#x2F;a&gt;&amp;nbsp;&lt;a class=&quot;anchor&quot; href=&quot;#book-learn-luminance&quot; aria-hidden=&quot;true&quot;&gt;#&lt;&#x2F;a&gt;
 &lt;&#x2F;h3&gt;
@@ -5190,8 +5302,8 @@ and it&#x27;s fast with 60-120 FPS on a bad computer.&lt;&#x2F;p&gt;
 &lt;&#x2F;h3&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=El99FgGSzfg&quot;&gt;&lt;img src=&quot;https:&#x2F;&#x2F;rust-gamedev.github.io&#x2F;posts&#x2F;newsletter-004&#x2F;skuplin.jpeg&quot; alt=&quot;physics demo video&quot; &#x2F;&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;^ Click to see &lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=El99FgGSzfg&quot;&gt;a demo video&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
-&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;aclysma&#x2F;skulpin&quot;&gt;skulpin&lt;&#x2F;a&gt; by &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;aclysma&quot;&gt;@aclysma&lt;&#x2F;a&gt; provides an easy option for drawing hardware-accelerated 2D
-by combining Vulkan and &lt;a href=&quot;https:&#x2F;&#x2F;skia.org&quot;&gt;Skia&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;aclysma&#x2F;skulpin&quot;&gt;skulpin&lt;&#x2F;a&gt; by &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;aclysma&quot;&gt;@aclysma&lt;&#x2F;a&gt; provides an easy option for drawing
+hardware-accelerated 2D by combining Vulkan and &lt;a href=&quot;https:&#x2F;&#x2F;skia.org&quot;&gt;Skia&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;ultraviolet-v0-2&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;termhn&#x2F;ultraviolet&quot;&gt;ultraviolet&lt;&#x2F;a&gt; v0.2&amp;nbsp;&lt;a class=&quot;anchor&quot; href=&quot;#ultraviolet-v0-2&quot; aria-hidden=&quot;true&quot;&gt;#&lt;&#x2F;a&gt;
 &lt;&#x2F;h3&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;termhn&#x2F;ultraviolet&quot;&gt;ultraviolet&lt;&#x2F;a&gt; v0.2 were released by &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;fu5ha&quot;&gt;@fu5ha&lt;&#x2F;a&gt;.
@@ -5334,7 +5446,8 @@ devlog about dependency graphs;&lt;&#x2F;p&gt;
 discussion;&lt;&#x2F;p&gt;
 &lt;&#x2F;li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;community.amethyst.rs&#x2F;t&#x2F;skepticism-about-rendy&#x2F;1221&quot;&gt;&amp;quot;Skepticism about Rendy&amp;quot;&lt;&#x2F;a&gt; discussion;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;community.amethyst.rs&#x2F;t&#x2F;skepticism-about-rendy&#x2F;1221&quot;&gt;&amp;quot;Skepticism about Rendy&amp;quot;&lt;&#x2F;a&gt;
+discussion;&lt;&#x2F;p&gt;
 &lt;&#x2F;li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;community.amethyst.rs&#x2F;t&#x2F;obiwanuss-long-link-time-feedback&#x2F;1207&quot;&gt;A thread by @obiwanus about long link time&lt;&#x2F;a&gt;;&lt;&#x2F;p&gt;
@@ -5406,8 +5519,7 @@ or &lt;a href=&quot;https:&#x2F;&#x2F;reddit.com&#x2F;r&#x2F;rust_gamedev&quot;&
                 <pubDate>Thu, 07 Nov 2019 00:00:00 +0000</pubDate>
                 <link>https://rust-gamedev.github.io/posts/newsletter-003/</link>
                 <guid>https://rust-gamedev.github.io/posts/newsletter-003/</guid>
-                <description>&lt;!-- markdownlint-disable no-trailing-punctuation --&gt;
-&lt;p&gt;Welcome to the third issue of the Rust GameDev Workgroup’s
+                <description>&lt;p&gt;Welcome to the third issue of the Rust GameDev Workgroup’s
 monthly newsletter.&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;rust-lang.org&quot;&gt;Rust&lt;&#x2F;a&gt; is a systems language pursuing the trifecta:
 safety, concurrency, and speed.
@@ -5632,8 +5744,8 @@ non-ascii code input, new icons, bugfixes, and better translations.&lt;&#x2F;p&g
 &lt;&#x2F;h3&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;medium.com&#x2F;@recallsingularity&#x2F;rendering-a-2d-game-in-3d-bd24ddbee6eb&quot;&gt;&amp;quot;Rendering a 2D game in 3D&amp;quot;&lt;&#x2F;a&gt; -
-&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;RecallSingular1&quot;&gt;Tom Leys&lt;&#x2F;a&gt; is working on a “The Recall Singularity” &lt;a href=&quot;https:&#x2F;&#x2F;godotengine.org&quot;&gt;Godot&lt;&#x2F;a&gt;&#x2F;Rust game
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;medium.com&#x2F;@recallsingularity&#x2F;rendering-a-2d-game-in-3d-bd24ddbee6eb&quot;&gt;&amp;quot;Rendering a 2D game in 3D&amp;quot;&lt;&#x2F;a&gt;
+- &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;RecallSingular1&quot;&gt;Tom Leys&lt;&#x2F;a&gt; is working on a “The Recall Singularity” &lt;a href=&quot;https:&#x2F;&#x2F;godotengine.org&quot;&gt;Godot&lt;&#x2F;a&gt;&#x2F;Rust game
 about designing autonomous factory ships and stations
 and this month they published
 a post about evolution of the game&#x27;s rendering.&lt;&#x2F;p&gt;
@@ -5648,7 +5760,10 @@ character physics, weapon system, cameras, animations system,
 dynamic damage system.&lt;&#x2F;p&gt;
 &lt;&#x2F;li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;reddit.com&#x2F;r&#x2F;godot&#x2F;comments&#x2F;dfam0p&#x2F;i_made_a_pong_clone_in_godot_using_the_gdnative&quot;&gt;&amp;quot;Pong Clone in Godot Using &#x27;gdnative&#x27; Rust Bindings&amp;quot;&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;you-win&quot;&gt;@you-win&lt;&#x2F;a&gt; couldn&#x27;t find any full game examples that used &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;GodotNativeTools&#x2F;godot-rust&quot;&gt;godot-rust&lt;&#x2F;a&gt; so they made their own [&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;you-win&#x2F;godot-pong-rust&quot;&gt;source code&lt;&#x2F;a&gt;].&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;reddit.com&#x2F;r&#x2F;godot&#x2F;comments&#x2F;dfam0p&#x2F;i_made_a_pong_clone_in_godot_using_the_gdnative&quot;&gt;&amp;quot;Pong Clone in Godot Using &#x27;gdnative&#x27; Rust Bindings&amp;quot;&lt;&#x2F;a&gt;
+- &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;you-win&quot;&gt;@you-win&lt;&#x2F;a&gt; couldn&#x27;t find any full game examples that used &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;GodotNativeTools&#x2F;godot-rust&quot;&gt;godot-rust&lt;&#x2F;a&gt;
+so they made their own
+[&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;you-win&#x2F;godot-pong-rust&quot;&gt;source code&lt;&#x2F;a&gt;].&lt;&#x2F;p&gt;
 &lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;h3 id=&quot;ludum-dare-45&quot;&gt;Ludum Dare 45&amp;nbsp;&lt;a class=&quot;anchor&quot; href=&quot;#ludum-dare-45&quot; aria-hidden=&quot;true&quot;&gt;#&lt;&#x2F;a&gt;
@@ -5966,7 +6081,8 @@ and the requirements of the wider rust audio community.&lt;&#x2F;li&gt;
 were moved to &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;amethyst&quot;&gt;Amethyst organization&lt;&#x2F;a&gt; [&lt;a href=&quot;https:&#x2F;&#x2F;users.rust-lang.org&#x2F;t&#x2F;specs-parallel-ecs-moved-to-amethyst-organization&#x2F;33815&quot;&gt;URLO&lt;&#x2F;a&gt;].&lt;&#x2F;p&gt;
 &lt;&#x2F;li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.reddit.com&#x2F;r&#x2F;rust_gamedev&#x2F;comments&#x2F;dm3jsf&#x2F;amethyst_v011_contacts_events&quot;&gt;amethyst_physics v0.1.1 was released&lt;&#x2F;a&gt;: now it&#x27;s possible to fetch Rigid body contacts events.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.reddit.com&#x2F;r&#x2F;rust_gamedev&#x2F;comments&#x2F;dm3jsf&#x2F;amethyst_v011_contacts_events&quot;&gt;amethyst_physics v0.1.1 was released&lt;&#x2F;a&gt;:
+now it&#x27;s possible to fetch Rigid body contacts events.&lt;&#x2F;p&gt;
 &lt;&#x2F;li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;_AndreaCatania&quot;&gt;@_AndreaCatania&lt;&#x2F;a&gt; published two video tutorials:&lt;&#x2F;p&gt;
@@ -6134,7 +6250,8 @@ and sound effects: &lt;a href=&quot;https:&#x2F;&#x2F;youtube.com&#x2F;watch?v=M
 &lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;rust-gamedev.github.io&#x2F;posts&#x2F;newsletter-002&#x2F;rox_clone_attack.png&quot; alt=&quot;bots attack&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;&#x2F;li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;Webshinra&quot;&gt;@webshinra&lt;&#x2F;a&gt; made progress with raycasted FOV in their hexagonal game.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;Webshinra&quot;&gt;@webshinra&lt;&#x2F;a&gt; made progress with raycasted FOV
+in their hexagonal game.&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;rust-gamedev.github.io&#x2F;posts&#x2F;newsletter-002&#x2F;hex-fov.jpeg&quot; alt=&quot;hexagonal map with two mechs, paths and visually blocked tiles&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
@@ -6455,7 +6572,8 @@ a new GLFW backend and &lt;code&gt;.gif&lt;&#x2F;code&gt; output.
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;aclysma&#x2F;minimum&quot;&gt;minimum&lt;&#x2F;a&gt;&lt;&#x2F;strong&gt; by (&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;aclysma&quot;&gt;@aclysma&lt;&#x2F;a&gt;) is a game development framework that provides
 basic tooling and a content authoring workflow;
-this month, rendering of draggable shapes in the editor and rotation&#x2F;scaling were added
+this month, rendering of draggable shapes in the editor
+and rotation&#x2F;scaling were added
 [&lt;a href=&quot;https:&#x2F;&#x2F;youtube.com&#x2F;watch?v=BON_RvVFiWY&quot;&gt;YouTube demo&lt;&#x2F;a&gt;].&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;rust-gamedev.github.io&#x2F;posts&#x2F;newsletter-002&#x2F;minimum.png&quot; alt=&quot;editor with a bunch of shapes&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;&#x2F;li&gt;
@@ -6626,7 +6744,8 @@ or &lt;a href=&quot;https:&#x2F;&#x2F;nphysics.org&#x2F;demo_all_examples3&quot;
 &lt;a href=&quot;https:&#x2F;&#x2F;reddit.com&#x2F;r&#x2F;rust&#x2F;comments&#x2F;cmxdyk&#x2F;this_month_in_rustsim_7_june_july_2019_nphysics&quot;&gt;&#x2F;r&#x2F;rust&lt;&#x2F;a&gt;,
 &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;rust_gamedev&#x2F;status&#x2F;1160659441550864384&quot;&gt;twitter&lt;&#x2F;a&gt;&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
-&lt;p&gt;Also, check out &lt;a href=&quot;https:&#x2F;&#x2F;www.patreon.com&#x2F;posts&#x2F;about-future-of-28917514&quot;&gt;&amp;quot;About the future of nphysics: a pure rust 2D and 3D real-time physics engine&amp;quot;&lt;&#x2F;a&gt;
+&lt;p&gt;Also, check out
+&lt;a href=&quot;https:&#x2F;&#x2F;www.patreon.com&#x2F;posts&#x2F;about-future-of-28917514&quot;&gt;&amp;quot;About the future of nphysics: a pure rust 2D and 3D real-time physics engine&amp;quot;&lt;&#x2F;a&gt;
 [&lt;a href=&quot;https:&#x2F;&#x2F;reddit.com&#x2F;r&#x2F;rust&#x2F;comments&#x2F;cm2858&#x2F;about_the_future_of_nphysics_a_pure_rust_2d_and&quot;&gt;&#x2F;r&#x2F;rust&lt;&#x2F;a&gt;].&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;way-of-rhea-trailer-and-steam-wishlist-announced&quot;&gt;Way of Rhea &lt;a href=&quot;https:&#x2F;&#x2F;youtube.com&#x2F;watch?v=VIzqlI-gbAY&quot;&gt;Trailer&lt;&#x2F;a&gt; and &lt;a href=&quot;https:&#x2F;&#x2F;store.steampowered.com&#x2F;app&#x2F;1110620&#x2F;Way_of_Rhea&quot;&gt;Steam Wishlist&lt;&#x2F;a&gt; Announced&amp;nbsp;&lt;a class=&quot;anchor&quot; href=&quot;#way-of-rhea-trailer-and-steam-wishlist-announced&quot; aria-hidden=&quot;true&quot;&gt;#&lt;&#x2F;a&gt;
 &lt;&#x2F;h3&gt;
@@ -6904,8 +7023,8 @@ about the development of an asteroids-like game
 &lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;rust-gamedev.github.io&#x2F;posts&#x2F;newsletter-001&#x2F;vlad-asteroinds-gameplay.gif&quot; alt=&quot;Gameplay of Vlad&#x27;s prototype&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;&#x2F;li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;azriel.im&#x2F;&quot;&gt;Azriel&lt;&#x2F;a&gt; published a devlog &lt;a href=&quot;https:&#x2F;&#x2F;azriel.im&#x2F;will&#x2F;2019&#x2F;08&#x2F;16&#x2F;charging-up&quot;&gt;&amp;quot;Charging Up&amp;quot;&lt;&#x2F;a&gt; - characters in &lt;a href=&quot;https:&#x2F;&#x2F;azriel91.itch.io&#x2F;will&quot;&gt;Will&lt;&#x2F;a&gt; can now charge up
-by holding the Attack button.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;azriel.im&#x2F;&quot;&gt;Azriel&lt;&#x2F;a&gt; published a devlog &lt;a href=&quot;https:&#x2F;&#x2F;azriel.im&#x2F;will&#x2F;2019&#x2F;08&#x2F;16&#x2F;charging-up&quot;&gt;&amp;quot;Charging Up&amp;quot;&lt;&#x2F;a&gt; - characters in &lt;a href=&quot;https:&#x2F;&#x2F;azriel91.itch.io&#x2F;will&quot;&gt;Will&lt;&#x2F;a&gt;
+can now charge up by holding the Attack button.&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;rust-gamedev.github.io&#x2F;posts&#x2F;newsletter-001&#x2F;will-charging.png&quot; alt=&quot;charging sprites from Will&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;&#x2F;li&gt;
 &lt;li&gt;
@@ -6942,7 +7061,8 @@ that fix some bugs, improve performance, scoring and UI.&lt;&#x2F;p&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;rust-gamedev&#x2F;wg&#x2F;issues&#x2F;42&quot;&gt;#42 &amp;quot;[Discussion] A plan for crate stewardship&amp;quot;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;rust-gamedev&#x2F;rust-gamedev.github.io&quot;&gt;rust-gamedev.github.io&lt;&#x2F;a&gt;:
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;rust-gamedev&#x2F;rust-gamedev.github.io&#x2F;issues&#x2F;2&quot;&gt;#2 &amp;quot;Newsletter&amp;quot;&lt;&#x2F;a&gt; (so meta!)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;rust-gamedev&#x2F;rust-gamedev.github.io&#x2F;issues&#x2F;2&quot;&gt;#2 &amp;quot;Newsletter&amp;quot;&lt;&#x2F;a&gt;
+(so meta!)&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;rust-gamedev&#x2F;rust-gamedev.github.io&#x2F;issues&#x2F;4&quot;&gt;#4 &amp;quot;Create a rust-gamedev.github.io site&amp;quot;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;&#x2F;li&gt;
@@ -7009,26 +7129,58 @@ or &lt;a href=&quot;https:&#x2F;&#x2F;reddit.com&#x2F;r&#x2F;rust_gamedev&quot;&
                 <pubDate>Sun, 18 Aug 2019 00:00:00 +0000</pubDate>
                 <link>https://rust-gamedev.github.io/posts/introducing-the-rust-game-development-working-group/</link>
                 <guid>https://rust-gamedev.github.io/posts/introducing-the-rust-game-development-working-group/</guid>
-                <description>&lt;p&gt;Rust&#x27;s combination of low-level control, excellent performance and modern build tools makes it an exciting choice for game developers. The idea of a working group to support this burgeoning community has been proposed &lt;a href=&quot;https:&#x2F;&#x2F;internals.rust-lang.org&#x2F;t&#x2F;a-working-group-for-rust-game-development&#x2F;8240&#x2F;4&quot;&gt;many&lt;&#x2F;a&gt; &lt;a href=&quot;https:&#x2F;&#x2F;alexene.dev&#x2F;2018&#x2F;11&#x2F;15&#x2F;Rust-and-game-development.html&quot;&gt;times&lt;&#x2F;a&gt; over the years, and we&#x27;re excited to announce that a group has finally been formed!&lt;&#x2F;p&gt;
-&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;rust-gamedev&#x2F;wg&#x2F;blob&#x2F;master&#x2F;charter.md&quot;&gt;Our charter&lt;&#x2F;a&gt; sets out two primary goals:&lt;&#x2F;p&gt;
+                <description>&lt;p&gt;Rust&#x27;s combination of low-level control, excellent performance
+and modern build tools makes it an exciting choice for game developers.
+The idea of a working group to support this burgeoning community has been proposed
+&lt;a href=&quot;https:&#x2F;&#x2F;internals.rust-lang.org&#x2F;t&#x2F;a-working-group-for-rust-game-development&#x2F;8240&#x2F;4&quot;&gt;many&lt;&#x2F;a&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;alexene.dev&#x2F;2018&#x2F;11&#x2F;15&#x2F;Rust-and-game-development.html&quot;&gt;times&lt;&#x2F;a&gt;
+over the years, and we&#x27;re excited to announce that a group has finally been formed!&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;rust-gamedev&#x2F;wg&#x2F;blob&#x2F;master&#x2F;charter.md&quot;&gt;Our charter&lt;&#x2F;a&gt;
+sets out two primary goals:&lt;&#x2F;p&gt;
 &lt;ul&gt;
-&lt;li&gt;To improve the experience of people using Rust for game development. We want game developers to have a representation in the Rust project. We are a bridge between them and the Rust dev team.&lt;&#x2F;li&gt;
-&lt;li&gt;To share knowledge and make game engine development more accessible for people that are not engine developers. We know it can be a large and intimidating field when you&#x27;re just starting out.&lt;&#x2F;li&gt;
+&lt;li&gt;To improve the experience of people using Rust for game development.
+We want game developers to have a representation in the Rust project.
+We are a bridge between them and the Rust dev team.&lt;&#x2F;li&gt;
+&lt;li&gt;To share knowledge and make game engine development more accessible
+for people that are not engine developers.
+We know it can be a large and intimidating field when you&#x27;re just starting out.&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;h2 id=&quot;what-have-we-been-up-to&quot;&gt;What have we been up to?&amp;nbsp;&lt;a class=&quot;anchor&quot; href=&quot;#what-have-we-been-up-to&quot; aria-hidden=&quot;true&quot;&gt;#&lt;&#x2F;a&gt;
 &lt;&#x2F;h2&gt;
-&lt;p&gt;While the working group is still in its infancy, we&#x27;ve already got several projects underway:&lt;&#x2F;p&gt;
+&lt;p&gt;While the working group is still in its infancy,
+we&#x27;ve already got several projects underway:&lt;&#x2F;p&gt;
 &lt;ul&gt;
-&lt;li&gt;The biggest success so far has been the creation of &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;rust-windowing&#x2F;raw-window-handle&quot;&gt;&lt;code&gt;raw-window-handle&lt;&#x2F;code&gt;&lt;&#x2F;a&gt;, a library that provides a common interface that windowing libraries (such as &lt;code&gt;winit&lt;&#x2F;code&gt;) can use to talk to graphics libraries (such as &lt;code&gt;gfx-hal&lt;&#x2F;code&gt;). &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;rust-gamedev&#x2F;wg&#x2F;issues&#x2F;26&quot;&gt;Work is currently ongoing&lt;&#x2F;a&gt; to integrate this into various libraries, and once this is complete, it should be a big step towards making the ecosystem more decoupled.&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;rust-gamedev&#x2F;wg&#x2F;issues&#x2F;23&quot;&gt;Discussions on how a pure Rust SPIR-V generator could be implemented&lt;&#x2F;a&gt; are currently ongoing, with the aim of reducing our reliance on &lt;code&gt;shaderc&lt;&#x2F;code&gt;.&lt;&#x2F;li&gt;
-&lt;li&gt;We&#x27;re running a &lt;a href=&quot;https:&#x2F;&#x2F;users.rust-lang.org&#x2F;t&#x2F;survey-from-the-rust-game-development-working-group&#x2F;31270&quot;&gt;survey&lt;&#x2F;a&gt;, to help us understand the ecosystem better and to figure out how we can best serve its needs. If you&#x27;re currently using Rust for game development, or even if you just have an interest in the idea of it, please give us your thoughts!&lt;&#x2F;li&gt;
+&lt;li&gt;The biggest success so far has been the creation of
+&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;rust-windowing&#x2F;raw-window-handle&quot;&gt;&lt;code&gt;raw-window-handle&lt;&#x2F;code&gt;&lt;&#x2F;a&gt;,
+a library that provides a common interface that windowing libraries (such as &lt;code&gt;winit&lt;&#x2F;code&gt;)
+can use to talk to graphics libraries (such as &lt;code&gt;gfx-hal&lt;&#x2F;code&gt;).
+&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;rust-gamedev&#x2F;wg&#x2F;issues&#x2F;26&quot;&gt;Work is currently ongoing&lt;&#x2F;a&gt;
+to integrate this into various libraries, and once this is complete,
+it should be a big step towards making the ecosystem more decoupled.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;rust-gamedev&#x2F;wg&#x2F;issues&#x2F;23&quot;&gt;Discussions on how a pure Rust SPIR-V generator could be implemented&lt;&#x2F;a&gt;
+are currently ongoing, with the aim of reducing our reliance on &lt;code&gt;shaderc&lt;&#x2F;code&gt;.&lt;&#x2F;li&gt;
+&lt;li&gt;We&#x27;re running a &lt;a href=&quot;https:&#x2F;&#x2F;users.rust-lang.org&#x2F;t&#x2F;survey-from-the-rust-game-development-working-group&#x2F;31270&quot;&gt;survey&lt;&#x2F;a&gt;,
+to help us understand the ecosystem better and to figure out
+how we can best serve its needs.
+If you&#x27;re currently using Rust for game development,
+or even if you just have an interest in the idea of it,
+please give us your thoughts!&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;h2 id=&quot;how-can-i-get-involved&quot;&gt;How can I get involved?&amp;nbsp;&lt;a class=&quot;anchor&quot; href=&quot;#how-can-i-get-involved&quot; aria-hidden=&quot;true&quot;&gt;#&lt;&#x2F;a&gt;
 &lt;&#x2F;h2&gt;
-&lt;p&gt;Our main hub for co-ordination is our &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;rust-gamedev&#x2F;wg&quot;&gt;Github repository&lt;&#x2F;a&gt;, where you can (and should!) raise issues calling out your ideas, proposals or problems with the Rust gamedev ecosystem. We also have a &lt;code&gt;#wg-gamedev&lt;&#x2F;code&gt; channel on the &lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;j6QJsMd&quot;&gt;official Rust Discord server&lt;&#x2F;a&gt;, and get together for &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;rust-gamedev&#x2F;wg#join-the-fun&quot;&gt;meetings on Google Hangouts every other Wednesday&lt;&#x2F;a&gt;. Come and join us!&lt;&#x2F;p&gt;
+&lt;p&gt;Our main hub for co-ordination is our &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;rust-gamedev&#x2F;wg&quot;&gt;Github repository&lt;&#x2F;a&gt;,
+where you can (and should!) raise issues calling out your ideas, proposals
+or problems with the Rust gamedev ecosystem.
+We also have a &lt;code&gt;#wg-gamedev&lt;&#x2F;code&gt; channel on the &lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;j6QJsMd&quot;&gt;official Rust Discord server&lt;&#x2F;a&gt;,
+and get together for &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;rust-gamedev&#x2F;wg#join-the-fun&quot;&gt;meetings on Google Hangouts every other Wednesday&lt;&#x2F;a&gt;.
+Come and join us!&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;what-s-next&quot;&gt;What&#x27;s next?&amp;nbsp;&lt;a class=&quot;anchor&quot; href=&quot;#what-s-next&quot; aria-hidden=&quot;true&quot;&gt;#&lt;&#x2F;a&gt;
 &lt;&#x2F;h2&gt;
-&lt;p&gt;We&#x27;re currently &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;rust-gamedev&#x2F;rust-gamedev.github.io&#x2F;issues&#x2F;2&quot;&gt;putting together&lt;&#x2F;a&gt; the first installment of a Rust game development newsletter - if you&#x27;d like to be notified when this goes live, please subscribe to our &lt;a href=&quot;https:&#x2F;&#x2F;rust-gamedev.github.io&#x2F;feed.xml&quot;&gt;RSS feed&lt;&#x2F;a&gt;, or join us on &lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;j6QJsMd&quot;&gt;Discord&lt;&#x2F;a&gt;!&lt;&#x2F;p&gt;
+&lt;p&gt;We&#x27;re currently &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;rust-gamedev&#x2F;rust-gamedev.github.io&#x2F;issues&#x2F;2&quot;&gt;putting together&lt;&#x2F;a&gt;
+the first installment of a Rust game development newsletter -
+if you&#x27;d like to be notified when this goes live,
+please subscribe to our &lt;a href=&quot;https:&#x2F;&#x2F;rust-gamedev.github.io&#x2F;feed.xml&quot;&gt;RSS feed&lt;&#x2F;a&gt;,
+or join us on &lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;j6QJsMd&quot;&gt;Discord&lt;&#x2F;a&gt;!&lt;&#x2F;p&gt;
 </description>
             </item>
         
